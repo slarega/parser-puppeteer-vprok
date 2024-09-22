@@ -1,0 +1,3 @@
+price=160
+rating=4.5
+reviewCount=117
